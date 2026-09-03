@@ -1,3 +1,4 @@
+// Phython Program to find Factorial of any number.
 def factorial(n):
     """
     Recursive function to calculate the factorial of a non-negative integer.
