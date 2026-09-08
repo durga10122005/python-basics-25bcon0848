@@ -2,7 +2,21 @@
 
 This repository contains beginner-friendly Python programs created for a college prompt engineering class.
 
-## Project Overview
+## Installation
+
+1. Clone this repository.
+2. Ensure Python 3 is installed.
+
+## Dependencies
+
+- No external dependencies are required.
+- Uses only Python standard library modules.
+
+## Licence
+
+No license is currently specified in this repository.
+
+## Features
 
 The project demonstrates core programming fundamentals using small standalone scripts:
 
@@ -11,6 +25,12 @@ The project demonstrates core programming fundamentals using small standalone sc
 - `factorial.py` calculates the factorial of a non-negative integer using recursion.
 
 Each script is independent and can be run directly from the command line.
+
+## Commands
+
+- `python hello_world.py`
+- `python fibonacci.py`
+- `python factorial.py`
 
 ## Sample Output
 
