@@ -23,6 +23,9 @@ The project demonstrates core programming fundamentals using small standalone sc
 - `hello_world.py` prints a basic greeting.
 - `fibonacci.py` generates the Fibonacci sequence for a given count.
 - `factorial.py` calculates the factorial of a non-negative integer using recursion.
+- `student_class.py` stores and displays student details using a Python class.
+- `student_dictionary.py` stores and displays student details using a Python dictionary.
+- `student_struct.c` stores and displays student details using a C struct.
 
 Each script is independent and can be run directly from the command line.
 
@@ -31,6 +34,9 @@ Each script is independent and can be run directly from the command line.
 - `python hello_world.py`
 - `python fibonacci.py`
 - `python factorial.py`
+- `python student_class.py`
+- `python student_dictionary.py`
+- `gcc student_struct.c -o student_struct && ./student_struct`
 
 ## Sample Output
 
