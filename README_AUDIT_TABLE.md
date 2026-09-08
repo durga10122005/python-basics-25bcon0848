@@ -2,7 +2,7 @@
 
 | Claim made in README | True? | Evidence or correction made |
 |---|---|---|
-| Requires pip install -r requirements.txt | No | No `requirements.txt` exists; standard library only. Delete this line if present. |
+| Requires pip install -r requirements.txt | No | README.md does not mention `requirements.txt` or `pip install -r`; no correction is needed there (and it should not be added). |
 | Repository contains beginner-friendly Python programs for a class. | Yes | Files `hello_world.py`, `fibonacci.py`, and `factorial.py` are present and focused on programming basics. |
 | No external dependencies are required; standard library only. | Yes | README states standard library usage, and no dependency file is present. |
 | No license is currently specified in this repository. | Yes | No `LICENSE` file is present in the repository root. |
