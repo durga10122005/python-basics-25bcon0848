@@ -23,6 +23,7 @@ The project demonstrates core programming fundamentals using small standalone sc
 - `hello_world.py` prints a basic greeting.
 - `fibonacci.py` generates the Fibonacci sequence for a given count.
 - `factorial.py` calculates the factorial of a non-negative integer using recursion.
+- `student.py` defines a `Student` data structure using Python's `dataclass`.
 
 Each script is independent and can be run directly from the command line.
 
@@ -31,6 +32,7 @@ Each script is independent and can be run directly from the command line.
 - `python hello_world.py`
 - `python fibonacci.py`
 - `python factorial.py`
+- `python student.py`
 
 ## Sample Output
 
@@ -52,4 +54,10 @@ $ python factorial.py
 --- Factorial Calculator ---
 Enter a non-negative integer: 5
 The factorial of 5 is: 120
+```
+
+### Student
+```text
+$ python student.py
+Student(roll_no=101, name='Durga', age=20, department='CSE')
 ```
